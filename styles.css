@@ -1,10 +1,4 @@
-.con{
-    height: 95vh;
-    width: 100%;
-   border: 3px solid black;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+
 }.box{
     height: 500px;
     width: 500px;
